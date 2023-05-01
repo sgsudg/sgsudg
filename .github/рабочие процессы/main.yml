@@ -1,0 +1,21 @@
+Module metadata package name: com.google.android.modulemetadata
+Duration of 'DUMPSYS CRITICAL': 0.91s
+Duration of 'SYSTEM LOG': 3.18s
+Duration of 'EVENT LOG': 0.26s
+Duration of 'STATS LOG': 0.08s
+Duration of 'RADIO LOG': 3.30s
+Duration of 'LOG STATISTICS': 0.78s
+Warning: leftover binary log data (124 bytes)
+Binary log entry conversion failed
+Binary log entry conversion failed
+Binary log entry conversion failed
+Binary log entry conversion failed
+Unknown binary event type 99
+Binary log entry conversion failed
+Binary log entry conversion failed
+Binary log entry conversion failed
+Warning: leftover binary log data (256 bytes)
+Binary log entry conversion failed
+Binary log entry conversion failed
+Unknown binary event type 99
+Binary log entry conversion failed
